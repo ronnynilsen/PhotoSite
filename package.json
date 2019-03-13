@@ -1,0 +1,22 @@
+{
+  "name": "photosite",
+  "version": "1.0.0",
+  "description": "Photo Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnynilsen/PhotoSite.git"
+  },
+  "keywords": [
+    "photography"
+  ],
+  "author": "Ronny A. Nilsen <rn@ronnynilsen.com> (http://www.ronnynilsen.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronnynilsen/PhotoSite/issues"
+  },
+  "homepage": "https://github.com/ronnynilsen/PhotoSite#readme"
+}
